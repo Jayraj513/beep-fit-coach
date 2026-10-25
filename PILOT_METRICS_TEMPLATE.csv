@@ -1,0 +1,29 @@
+# Beep Fit Coach — 7-Day Product Validation Pilot Experiment Recording Template
+# Primary Outcome Metric: % of participants identifying top 3 requirements AND committing to a concrete next action
+# Protocol: 12-20 participants tested in Pre (Baseline / Unassisted) vs Post (Assisted / Beep Fit Coach) conditions
+# Target: +20 percentage point lift in primary outcome (Hypothesis to validate - record actual observed data below)
+participant_id,college_year,target_role,condition,identified_top_3_requirements,chose_concrete_next_action,primary_outcome_achieved,completion_time_minutes,perceived_confidence_1_to_5,notes
+P01,,Data Analyst Intern,Baseline (No Tool),,,,,
+P01,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
+P02,,AI/ML Intern,Baseline (No Tool),,,,,
+P02,,AI/ML Intern,Assisted (Beep Fit Coach),,,,,
+P03,,Data Analyst Intern,Baseline (No Tool),,,,,
+P03,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
+P04,,Data Analyst Intern,Baseline (No Tool),,,,,
+P04,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
+P05,,AI/ML Intern,Baseline (No Tool),,,,,
+P05,,AI/ML Intern,Assisted (Beep Fit Coach),,,,,
+P06,,Data Analyst Intern,Baseline (No Tool),,,,,
+P06,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
+P07,,Software Intern,Baseline (No Tool),,,,,
+P07,,Software Intern,Assisted (Beep Fit Coach),,,,,
+P08,,Data Analyst Intern,Baseline (No Tool),,,,,
+P08,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
+P09,,AI/ML Intern,Baseline (No Tool),,,,,
+P09,,AI/ML Intern,Assisted (Beep Fit Coach),,,,,
+P10,,Data Analyst Intern,Baseline (No Tool),,,,,
+P10,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
+P11,,Software Intern,Baseline (No Tool),,,,,
+P11,,Software Intern,Assisted (Beep Fit Coach),,,,,
+P12,,Data Analyst Intern,Baseline (No Tool),,,,,
+P12,,Data Analyst Intern,Assisted (Beep Fit Coach),,,,,
